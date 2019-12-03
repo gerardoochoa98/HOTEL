@@ -1,2 +1,2 @@
 # HOTEL
-Proyecto individual, reservas de habitaciones de un hotel de lujo.
+Proyecto individual, reservas de habitaciones en un hotel de lujo.
